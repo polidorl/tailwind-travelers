@@ -13,5 +13,5 @@ Creación de una landing page utilizando Tailwind, un framework CSS para acelera
 
 ### Links
 
-- Solution URL:  (https:)
-- Live Site URL: (https:// )
+- Solution URL:  
+- Live Site URL:   https://polidorl.github.io/tailwind-travelers/ 
